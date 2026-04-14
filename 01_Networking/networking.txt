@@ -1,0 +1,36 @@
+
+
+Networking:
+
+a computer network is a telecomunication network which allow autonomous digital device (nodes) to exchange data between each other using either wire or wireless connection to share resources
+
+
+Transmission Mode:
+
+Data flow between two systems can categorize into three types 
+
+                                Transmission Mode
+                                1: simplex Mode
+                                2: Half-Duplex Mode
+                                3: Full-Duplex Mode
+ 1: simplex Mode
+
+ the communicaiton is unidirectional as one-way street , one device always other can always recieve e.g. radio;
+
+ 2: Half-Duplex Mode
+
+ each station can both transmitt and recieve, but not at the same time like a one lane roard, walki-talkie etc.
+ => when one device is sending the other can only recieve, and vice versa.
+
+ 3: Full-Duplex Mode
+  
+both station can transmitt and recieve at the same time actually it is two half duplex connection 
+=> telephone network is an example off full duplex
+
+
+       Connection types
+
+   1: Point to point connection
+   2:  Multipoint connection   
+
+ 
